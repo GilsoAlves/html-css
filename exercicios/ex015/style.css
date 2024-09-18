@@ -12,7 +12,7 @@ h1{
     background-color: goldenrod;
 }
 h2{
-    color: darkred;
+    color: rgba(139, 0, 0, 0.479);
 }
 p{
     text-align: justify;

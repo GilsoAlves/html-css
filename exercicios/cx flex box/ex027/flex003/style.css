@@ -1,0 +1,12 @@
+div.conteiner{
+    background-color: lightgray;
+
+    display: flex;
+    flex-flow: row wrap;
+}
+div.item{
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+    flex: auto;
+}
